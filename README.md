@@ -1,7 +1,7 @@
 # wiringBP README
 
 This is a modified WiringPi for OrangePi. We call it WiringOP.
-Test fo Orangepi pc
+Test for RK3399 SDK
 
 ## Download
 ### For Orangepi Pi
